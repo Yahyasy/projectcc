@@ -7,7 +7,7 @@ $nama = $_POST['nama_jenis'];
 
 // step 2 simpan data ke dalam array
 $data = [
-    $nama,
+    $nama
 ];
 
 // step 3 eksekusi ketika tombol di klik kirim data kedalam model produk/function simpan
